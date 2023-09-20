@@ -1,0 +1,14 @@
+---
+import { logo, navbar, MyHeader} from "../../config/data.json";
+import { Nav } from "../Nav";
+import { HeaderComponent } from "../HeaderComponent";
+---
+
+<section class=" bg-gradient-to-b sm:from-dark-blue-intro sm:from-[68%] md:from-[97%] sm:to-dark-blue-main sm:to-[32%] md:to-[3%]">
+    <div class=" sm:bg-[url('/images/bg-curvy-mobile.svg')] md:bg-[url('/images/bg-curvy-desktop.svg')] bg-no-repeat bg-contain sm:bg-[center_top_17rem] md:bg-bottom md:pb-48">
+
+        <Nav logo={logo} navbar={navbar} />
+        <HeaderComponent { ...MyHeader} />
+
+    </div>   
+</section>

@@ -1,0 +1,15 @@
+---
+import { Item } from "../Item";
+import { descriptions } from "../../config/data.json";
+---
+
+<section class=" sm:mt-28 md:mt-0 md:px-24 mb-20 ">
+    <div class=" grid grid-cols-1 md:grid-cols-2 md:gap-x-28 gap-y-20 md:gap-y-10 max-w-6xl  px-8 md:px-12  pt-16">
+        {
+            descriptions.map((description) => <Item {...description} />)
+        }
+
+    </div>
+
+
+</section>

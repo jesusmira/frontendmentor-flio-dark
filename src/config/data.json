@@ -1,0 +1,127 @@
+{
+    "logo":"../images/logo.svg",
+    "quotes":"../images/bg-quotes.png",       
+    "navbar":[
+            {
+                "name": "Features",
+                "href": "#"
+            },
+            {
+                "name": "Team",
+                "href": "#"
+            },
+            {
+                "name": "Sign In",
+                "href": "#"
+            }
+        ],
+
+    "MyHeader":{
+        "image":"../images/illustration-intro.png",
+        "title":"All your files in one secure location, accessible anywhere.",
+        "description":"Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends, family, and co-workers.",
+        "button1":"Get Started"
+
+    },
+
+    "descriptions":[
+
+        {
+            "image":"../images/icon-access-anywhere.svg",
+            "title":"Access your files, anywhere",
+            "description":"The ability to use a smartphone, tablet, or computer to access your account means your files follow you everywhere."
+        },
+        {
+            "image":"../images/icon-security.svg",
+            "title":"Security you can trust",
+            "description":"2-factor authentication and user-controlled encryption are just a couple of the security features we allow to help secure your files."
+        },
+        {
+            "image":"../images/icon-collaboration.svg",
+            "title":"Real-time collaboration",
+            "description":"Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required."
+        },
+        {
+            "image":"../images/icon-any-file.svg",
+            "title":"Store any type of file",
+            "description":"Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared."
+        }
+         
+    ],
+    "productive":{
+        "image":"../images/illustration-stay-productive.png",
+        "title":"Stay productive, wherever you are",
+        "description1":"Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs.",
+        "description2":"Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
+        "more":"See how Fylo works",
+        "icon":"../images/icon-arrow.svg"
+    },
+    "testimonials":[
+        {
+            "image":"../images/profile-1.jpg",
+            "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
+            "name":"Satish Patel",
+            "title":"Founder & CEO, Huddle"
+        },
+        {
+            "image":"../images/profile-2.jpg",
+            "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
+            "name":"Bruce McKenzie",
+            "title":"Founder & CEO, Huddle"
+        },
+        {
+            "image":"../images/profile-3.jpg",
+            "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
+            "name":"Iva Boyd",
+            "title":"Founder & CEO, Huddle"
+        }
+    ],
+    "help":{
+        "title":"Get early access today",
+        "description":"It only takes a minute to sign up and our free starter tier is extremely generous. If you have any questions, our support team would be happy to help you.",
+        "form1":{
+            "placeholder":"email@example.com",
+            "error":"Please enter a valid email address",
+            "button2":"Get Started for free"
+        }
+
+    },
+    "footer":{
+        "column1":
+            {
+                "icon":"../images/icon-location.svg",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            }
+        ,
+        "column2":[
+            {
+                "icon":"../images/icon-phone.svg",
+                "text":"+1-543-123-4567"
+            },
+            {
+                "icon":"../images/icon-email.svg",
+                "text":"example@flio.com"
+            }
+        ],
+            
+        "column3":[
+            ["About Us","Jobs","Press","Blog"],
+            ["Contact Us","Terms","Privacy"]
+        ],
+        
+        "column5":[
+            {
+                "box": "0 0 320 512",
+                "path":"M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+            },
+            {
+                "box": "0 0 512 512",
+                "path":"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"
+            },  
+            {
+                "box": "0 0 448 512",
+                "path":"M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
+            }
+        ]
+    } 
+}

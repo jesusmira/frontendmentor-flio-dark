@@ -1,0 +1,11 @@
+---
+import { logo, footer } from "../../config/data.json";
+import { FooterComponent } from "../FooterComponent";
+---
+
+<footer class="bg-dark-blue-footer  ">
+    <div class="pt-64 pb-24 max-w-xs md:max-w-6xl mx-auto">
+        <img src={logo} alt="" class=" md:w-[10rem] ml-3"/>
+        <FooterComponent {...footer}/>
+    </div>
+</footer>
