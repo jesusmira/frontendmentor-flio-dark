@@ -1,6 +1,6 @@
 {
-    "logo":"../images/logo.svg",
-    "quotes":"../images/bg-quotes.png",       
+    "logo":"images/logo.svg",
+    "quotes":"images/bg-quotes.png",       
     "navbar":[
             {
                 "name": "Features",
@@ -17,7 +17,7 @@
         ],
 
     "MyHeader":{
-        "image":"../images/illustration-intro.png",
+        "image":"images/illustration-intro.png",
         "title":"All your files in one secure location, accessible anywhere.",
         "description":"Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends, family, and co-workers.",
         "button1":"Get Started"
@@ -27,50 +27,50 @@
     "descriptions":[
 
         {
-            "image":"../images/icon-access-anywhere.svg",
+            "image":"images/icon-access-anywhere.svg",
             "title":"Access your files, anywhere",
             "description":"The ability to use a smartphone, tablet, or computer to access your account means your files follow you everywhere."
         },
         {
-            "image":"../images/icon-security.svg",
+            "image":"images/icon-security.svg",
             "title":"Security you can trust",
             "description":"2-factor authentication and user-controlled encryption are just a couple of the security features we allow to help secure your files."
         },
         {
-            "image":"../images/icon-collaboration.svg",
+            "image":"images/icon-collaboration.svg",
             "title":"Real-time collaboration",
             "description":"Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required."
         },
         {
-            "image":"../images/icon-any-file.svg",
+            "image":"images/icon-any-file.svg",
             "title":"Store any type of file",
             "description":"Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared."
         }
          
     ],
     "productive":{
-        "image":"../images/illustration-stay-productive.png",
+        "image":"images/illustration-stay-productive.png",
         "title":"Stay productive, wherever you are",
         "description1":"Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs.",
         "description2":"Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
         "more":"See how Fylo works",
-        "icon":"../images/icon-arrow.svg"
+        "icon":"images/icon-arrow.svg"
     },
     "testimonials":[
         {
-            "image":"../images/profile-1.jpg",
+            "image":"images/profile-1.jpg",
             "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
             "name":"Satish Patel",
             "title":"Founder & CEO, Huddle"
         },
         {
-            "image":"../images/profile-2.jpg",
+            "image":"images/profile-2.jpg",
             "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
             "name":"Bruce McKenzie",
             "title":"Founder & CEO, Huddle"
         },
         {
-            "image":"../images/profile-3.jpg",
+            "image":"images/profile-3.jpg",
             "comment":"Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
             "name":"Iva Boyd",
             "title":"Founder & CEO, Huddle"
@@ -89,17 +89,17 @@
     "footer":{
         "column1":
             {
-                "icon":"../images/icon-location.svg",
+                "icon":"images/icon-location.svg",
                 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
             }
         ,
         "column2":[
             {
-                "icon":"../images/icon-phone.svg",
+                "icon":"images/icon-phone.svg",
                 "text":"+1-543-123-4567"
             },
             {
-                "icon":"../images/icon-email.svg",
+                "icon":"images/icon-email.svg",
                 "text":"example@flio.com"
             }
         ],

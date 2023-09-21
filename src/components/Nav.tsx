@@ -15,7 +15,7 @@ export const Nav = ({logo, navbar}:Props) => {
             <ul className="flex flex-row gap-3 md:gap-10 tracking-wider">
               {
                 navbar.map(({name, href}) => (
-                  <li key={name}><a href={href} className="inline-block md:text-paragraph text-xs hover:underline tracking-wide hover:font-bold hover:tracking-normal ">{name }</a></li>
+                  <li key={name}><a href={href} className="inline-block  md:leading-6 font-Open-Sans text-xs hover:underline tracking-wide hover:font-bold hover:tracking-normal ">{name }</a></li>
                 ))
               }
             </ul>
