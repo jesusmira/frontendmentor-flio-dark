@@ -7,5 +7,7 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [tailwind({
     applyBaseStyles: false,
-  }), react()]
+  }), react()],
+  site: 'https://jesusmira.github.io',
+  base: '/frontendmentor-flio-dark',
 });
