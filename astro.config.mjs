@@ -6,6 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://jesusmira.github.io',
-  base: '/frontendmentor-flio-dar',
+  base: '/frontendmentor-flio-dark',
   integrations: [tailwind(), react()],
 });
